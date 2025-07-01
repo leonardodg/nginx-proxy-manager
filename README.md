@@ -1,4 +1,5 @@
 # NGINX Proxy Manager
+![Image](https://camo.githubusercontent.com/a0d453df6c842b098350e3d6bd0a739e7e53b093d51ddfee820b38d42b4382fc/68747470733a2f2f6e67696e7870726f78796d616e616765722e636f6d2f6769746875622e706e67)
 
 A simple, powerful interface to manage NGINX proxy hosts with a web-based UI.
 
@@ -11,6 +12,8 @@ A simple, powerful interface to manage NGINX proxy hosts with a web-based UI.
 ## Objective
 
 This project aims to provide an easy way to deploy and manage NGINX reverse proxies using a user-friendly web interface.
+
+![Image](https://github.com/user-attachments/assets/460bae9e-36cf-4835-bf45-f04449c5c923)
 
 ## Prerequisites
 

@@ -34,4 +34,4 @@ services:
       MYSQL_PASSWORD: 'npm'
       MARIADB_AUTO_UPGRADE: '1'
     volumes:
-      - ./mysql:/var/lib/mysql
+      - ./volumes/mysql:/var/lib/mysql
