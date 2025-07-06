@@ -1,0 +1,6 @@
+{
+    "name": "Nginx Proxy Manager Development - Localhost by LeoDG",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/app"
+}
